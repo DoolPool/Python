@@ -1,6 +1,6 @@
-# Calculadoras
 <h1 align="center">Calculadora Basica en Python.</h1>
 <a href="https://www.youtube.com/watch?v=n3YyKv-9QDo" target="_blank" rel="noopener noreferrer">Link Video</a>
+<hr>
 
 <p align="center">
   <a href="https://doolpool.com" target="_blank" rel="noopener noreferrer">
