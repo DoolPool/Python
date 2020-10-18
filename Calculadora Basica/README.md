@@ -5,16 +5,15 @@
 </p>
 <h1 align="center">DoolPool, Inc.</h1>
 <h3 align="center">Hello 👋, we are DoolPool, frontend and backend developers located in Peru.</h3>
-
 <hr>
 
-## Python 
+## Video Turorial
 
-Python es un lenguaje de programación que le permite trabajar más rápidamente e integrar sus sistemas de manera más efectiva.
+<h1 align="center">Calculadora Basica en Python.</h1>
+<a href="https://www.youtube.com/watch?v=n3YyKv-9QDo" target="_blank" rel="noopener noreferrer">Link Video</a>
 
-## Instalación
+## Tutorial
 
-Para instalar python debemos ir a <a href="https://www.python.org/downloads/" > Python Downloads </a> y descargar la version que mas te guste.
 
 
 <hr>
